@@ -1,4 +1,4 @@
-# Repositorio del Proyecto Bus2Me.
+# Bus2Me.
 
   Bus2me es una aplicación informática desarrollada en java dirigida a los usuarios/pasajeros de autobuses.Pretende facilitar y mejorar la experiencia de comppra de pasajes, así como la espera del autobus en la parada dando la posibilidad de optar por si te interesa esperar dependiendo de la lejania del mismo.
   
