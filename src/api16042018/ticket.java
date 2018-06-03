@@ -18,6 +18,15 @@ import java.awt.Color;
 import javax.swing.JProgressBar;
 import javax.swing.JTextField;
 
+
+/**
+
+ * La clase ticket es la que se utiliza para comprar tickets.
+
+ * @author: Eugeni
+ * 
+ */
+
 public class ticket extends JFrame {
 
 	private JPanel contentPane;

@@ -21,6 +21,15 @@ import java.awt.Image;
 import java.awt.Color;
 import javax.swing.JProgressBar;
 
+
+/**
+
+ * La clase panel info actualiza los datos de cad auno de los autobuses en un panel mediante jlabels y un timer de actualizacion automatico al json.
+
+ * @author: Eugeni
+ * 
+ */
+
 public class panel_info extends JFrame {
 
 	private JPanel contentPane;

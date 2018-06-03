@@ -1,5 +1,13 @@
 package api16042018;
 
+/**
+
+ * La clase autobus nps define getters y setters para almacenar y dar los parametros de los autobuses.
+
+ * @author: Eugeni
+ * 
+ */
+
 public class Autobus {
 	
 	int idlinea = 0;

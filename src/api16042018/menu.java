@@ -22,6 +22,13 @@ import javax.swing.ImageIcon;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+
+ * La clase menu es el que enlaza mediante botones y como frame princippal de la aplicacion con cada una de las clases de la aplicacion.
+ * @author: Eugeni
+ * 
+ */
+
 public class menu extends JFrame {
 
 	private JPanel contentPane;

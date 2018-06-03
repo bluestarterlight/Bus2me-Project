@@ -1,6 +1,7 @@
 package api16042018;
 
 import java.awt.BorderLayout;
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -14,29 +15,22 @@ import javax.swing.JTextField;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
+
+/**
+
+ * La clase abonados es una extension de la clase del tipo frame que utilizo para conectarla a la base de datos SQL e iniciar la sesion con id abonados y contraseña
+
+ * @author: Eugeni
+ * 
+ */
+
+
+
 public class Abonados extends JFrame {
 
 	private JPanel contentPane;
 	private JTextField textField;
 	private JTextField textField_1;
-
-	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					Abonados frame = new Abonados();
-					frame.setVisible(true);
-					
-					
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
 
 	/**
 	 * Create the frame.

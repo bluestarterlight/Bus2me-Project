@@ -12,6 +12,16 @@ import java.awt.event.MouseEvent;
 import javax.swing.JLabel;
 import javax.swing.JComboBox;
 
+
+/**
+
+ * La clase compraBonos es una idea a nivel frame de como el usuario puede comprar el ticket
+
+ * @author: Eugeni
+ * 
+ */
+
+
 public class compraBonos extends JFrame {
 
 	private JPanel contentPane;

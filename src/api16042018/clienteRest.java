@@ -5,6 +5,15 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
+
+/**
+
+ * La clase clienteREST es una clase que ejecuta metodos obtenidos de la libreria java-json para procesar los metodos de la misma
+
+ * @author: Eugeni
+ * 
+ */
+
 public class clienteRest {
 	
 	// Realiza una petición REST a la dirURL especificada.

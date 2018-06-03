@@ -9,6 +9,14 @@ import com.teamdev.jxmaps.swing.MapView;
 
 import com.teamdev.jxmaps.*;
 
+/**
+
+ * La clase Mapa vine con la extension MAPView de la libreria jxmaps la cual hace que aparezca un mapa en ventana
+
+ * @author: Eugeni
+ * 
+ */
+
 public class Mapa extends MapView{
 	
 /**

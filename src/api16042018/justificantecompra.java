@@ -12,6 +12,14 @@ import javax.swing.JButton;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
+/**
+
+ * La clase justificante de compra es el comprobobante  de la compra del ticket por pantalla
+
+ * @author: Eugeni
+ * 
+ */
+
 public class justificantecompra extends JFrame {
 
 	private JPanel contentPane;

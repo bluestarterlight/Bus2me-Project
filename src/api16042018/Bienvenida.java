@@ -16,6 +16,14 @@ import java.awt.Color;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
+/**
+
+ * La clase Bienvenida es una extension de la clase jframe que utilizo como pagina inicial y presentacion de la aplicacion
+
+ * @author: Eugeni
+ * 
+ */
+
 public class Bienvenida extends JFrame {
 
 	private JPanel contentPane;
